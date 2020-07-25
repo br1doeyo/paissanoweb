@@ -1,0 +1,44 @@
+baseURL = "http://www.paissano.com.ar/"
+languageCode = "es-AR"
+title = "PaísSano - Valor de Campo"
+theme = "stip"
+
+[Author]
+    name = "País Sano"
+    bio = "Valor de Campo"
+
+    [params]
+    [[params.links]]
+        icon = "facebook"
+        title = "Facebook"
+        url = "https://www.facebook.com/Pa%C3%ADs-Sano-Argentina-307504163477146"
+
+    [[params.links]]
+        icon = "twitter"
+        title = "Twitter"
+        url = "https://twitter.com/SanoPais"
+
+    [[params.links]]
+        icon = "instagram"
+        title = "Instagram"
+        url = "https://www.instagram.com/paissanoarg"
+
+    [[params.links]]
+        icon = "whatsapp"
+        title = "WhatsApp Buenos Aires"
+        url = "https://wa.link/pxfd6m"
+
+    [[params.links]]
+        iconset = "fas"
+        icon = "envelope"
+        title = "E-mail"
+        url = "mailto:paissanoarg@gmail.com"
+
+    [[params.links]]
+        icon = "whatsapp"
+        title = "WhatsApp Saladillo"
+        url = "https://wa.link/syp01v"
+
+
+
+        
